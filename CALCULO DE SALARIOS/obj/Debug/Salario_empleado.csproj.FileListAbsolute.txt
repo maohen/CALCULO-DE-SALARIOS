@@ -1,0 +1,33 @@
+C:\Users\mauricio.henao\source\repos\CALCULO DE SALARIOS\CALCULO DE SALARIOS\bin\Debug\CALCULO DE SALARIOS.exe.config
+C:\Users\mauricio.henao\source\repos\CALCULO DE SALARIOS\CALCULO DE SALARIOS\bin\Debug\CALCULO DE SALARIOS.exe
+C:\Users\mauricio.henao\source\repos\CALCULO DE SALARIOS\CALCULO DE SALARIOS\bin\Debug\CALCULO DE SALARIOS.pdb
+C:\Users\mauricio.henao\source\repos\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\Salario_empleado.csprojAssemblyReference.cache
+C:\Users\mauricio.henao\source\repos\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO_DE_SALARIOS.Properties.Resources.resources
+C:\Users\mauricio.henao\source\repos\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO_DE_SALARIOS.Salario_empleado.resources
+C:\Users\mauricio.henao\source\repos\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\Salario_empleado.csproj.GenerateResource.cache
+C:\Users\mauricio.henao\source\repos\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\Salario_empleado.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.henao\source\repos\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO DE SALARIOS.exe
+C:\Users\mauricio.henao\source\repos\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO DE SALARIOS.pdb
+C:\Users\Asus\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\bin\Debug\CALCULO DE SALARIOS.exe.config
+C:\Users\Asus\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\bin\Debug\CALCULO DE SALARIOS.exe
+C:\Users\Asus\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\bin\Debug\CALCULO DE SALARIOS.pdb
+C:\Users\Asus\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\Salario_Empleado.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO_DE_SALARIOS.Properties.Resources.resources
+C:\Users\Asus\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO_DE_SALARIOS.Salario_empleado.resources
+C:\Users\Asus\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\Salario_Empleado.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO DE SALARIOS.exe
+C:\Users\Asus\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO DE SALARIOS.pdb
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\bin\Debug\CALCULO DE SALARIOS.exe.config
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\bin\Debug\CALCULO DE SALARIOS.exe
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\bin\Debug\CALCULO DE SALARIOS.pdb
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\Salario_Empleado.csprojAssemblyReference.cache
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO_DE_SALARIOS.Properties.Resources.resources
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO_DE_SALARIOS.Salario_empleado.resources
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\Salario_Empleado.csproj.GenerateResource.cache
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\Salario_Empleado.csproj.CoreCompileInputs.cache
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO DE SALARIOS.exe
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO DE SALARIOS.pdb
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO_DE_SALARIOS.Login.resources
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO_DE_SALARIOS.frmPrincipal.resources
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO_DE_SALARIOS.AcercaDe.resources
+C:\Users\motoe\Downloads\CALCULO DE SALARIOS\CALCULO DE SALARIOS\CALCULO DE SALARIOS\obj\Debug\CALCULO_DE_SALARIOS.verEmpleado.resources

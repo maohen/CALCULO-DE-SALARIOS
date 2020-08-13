@@ -1,0 +1,11 @@
+Mauricio Henao,1020459,Masculino,23/04/2016,Mecanico
+Danna gabriela,10455,Femenino,23/04/2014,Vendedor
+Arturo granado,76534,Masculino,22/05/2020,Administrativo
+Elsa badillo,8949652284,Femenino,21/05/2015,Servicios Varios
+Diego norrea,856733,Masculino,23/04/2016,Vendedor
+alonso salazar,4935893,Masculino,22/01/2020,Vendedor
+Juan sino,398475,Masculino,19/05/2015,Mecanico
+Esmirna de jesus,contreras,Femenino,22/11/2018,Administrativo
+carmen henao,234891,Femenino,23/05/2020,Vendedor
+rodrigo martinez,8793831,Masculino,22/04/2015,Servicios Varios
+Javier Saldarriaga,765342,Masculino,26/05/2019,Administrativo
